@@ -1,0 +1,2963 @@
+Detected language: English
+{
+  "text": " Look at this thing, what even is it? I don't know what you'd call it, but I do know that when I hover this card and it appears I love it. Nicely done, Chronicle. Now, someone with a greater understanding of design, please tell us in the comments how so few pixels can be so wonderfully impactful. And while I can't tell you that, I can show you how to recreate it. Because the reality is that this little fella is nothing more than a linear gradient. But just as important as what it is, is how it's perceived by the user. Upon closer inspection, we'll find that this gradient is just one pixel wide and a few dozen pixels tall. It starts transparent, fades to a color, and then back to transparent. If we temporarily make it wider, we'll find that it appears no different than any other gradient. But as we reduce the width, we'll notice that eventually, because our eyes are not able to perceive a single pixel very well, it begins to look more like a fragment in short. So if we hit up our friendly neighborhood code pen, throw it together a basic card with some text inside, and then save it as private, well actually that's a super handy pro feature that I use all the time, so my pen doesn't show up in my profile before I finish a video. We can then slap our gradient into a pseudo element, position it absolutely along the left side, and down a little ways from the top. Not forgetting to set content to an empty strings or after element shows up, and to set position relative on the card so the left and top values correspond to it rather than the whole document. Setting a transition time on the top and opacity properties, we can shift those values on hover so our shard fades into view. Remember to use this one wisely, friends. Gradient serve powerful tools, and with great power comes the gradient responsibility.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.12,
+      "end": 1.94,
+      "text": " Look at this thing, what even is it?",
+      "tokens": [
+        50364,
+        2053,
+        412,
+        341,
+        551,
+        11,
+        437,
+        754,
+        307,
+        309,
+        30,
+        50464
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17802887231531278,
+      "compression_ratio": 1.6624203821656052,
+      "no_speech_prob": 0.010623998939990997,
+      "confidence": 0.958,
+      "words": [
+        {
+          "text": "Look",
+          "start": 0.12,
+          "end": 0.26,
+          "confidence": 0.925
+        },
+        {
+          "text": "at",
+          "start": 0.26,
+          "end": 0.48,
+          "confidence": 0.968
+        },
+        {
+          "text": "this",
+          "start": 0.48,
+          "end": 0.56,
+          "confidence": 0.987
+        },
+        {
+          "text": "thing,",
+          "start": 0.56,
+          "end": 0.84,
+          "confidence": 0.976
+        },
+        {
+          "text": "what",
+          "start": 0.98,
+          "end": 1.16,
+          "confidence": 0.958
+        },
+        {
+          "text": "even",
+          "start": 1.16,
+          "end": 1.52,
+          "confidence": 0.945
+        },
+        {
+          "text": "is",
+          "start": 1.52,
+          "end": 1.76,
+          "confidence": 0.947
+        },
+        {
+          "text": "it?",
+          "start": 1.76,
+          "end": 1.94,
+          "confidence": 0.961
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.08,
+      "end": 5.62,
+      "text": " I don't know what you'd call it, but I do know that when I hover this card and it appears",
+      "tokens": [
+        50464,
+        286,
+        500,
+        380,
+        458,
+        437,
+        291,
+        1116,
+        818,
+        309,
+        11,
+        457,
+        286,
+        360,
+        458,
+        300,
+        562,
+        286,
+        20076,
+        341,
+        2920,
+        293,
+        309,
+        7038,
+        50648
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17802887231531278,
+      "compression_ratio": 1.6624203821656052,
+      "no_speech_prob": 0.010623998939990997,
+      "confidence": 0.929,
+      "words": [
+        {
+          "text": "I",
+          "start": 2.08,
+          "end": 2.22,
+          "confidence": 0.986
+        },
+        {
+          "text": "don't",
+          "start": 2.22,
+          "end": 2.38,
+          "confidence": 0.986
+        },
+        {
+          "text": "know",
+          "start": 2.38,
+          "end": 2.5,
+          "confidence": 0.968
+        },
+        {
+          "text": "what",
+          "start": 2.5,
+          "end": 2.56,
+          "confidence": 0.995
+        },
+        {
+          "text": "you'd",
+          "start": 2.56,
+          "end": 2.86,
+          "confidence": 0.858
+        },
+        {
+          "text": "call",
+          "start": 2.86,
+          "end": 2.88,
+          "confidence": 0.994
+        },
+        {
+          "text": "it,",
+          "start": 2.88,
+          "end": 3.04,
+          "confidence": 0.998
+        },
+        {
+          "text": "but",
+          "start": 3.18,
+          "end": 3.28,
+          "confidence": 0.903
+        },
+        {
+          "text": "I",
+          "start": 3.28,
+          "end": 3.36,
+          "confidence": 0.966
+        },
+        {
+          "text": "do",
+          "start": 3.36,
+          "end": 3.54,
+          "confidence": 0.983
+        },
+        {
+          "text": "know",
+          "start": 3.54,
+          "end": 3.86,
+          "confidence": 0.991
+        },
+        {
+          "text": "that",
+          "start": 3.86,
+          "end": 4.02,
+          "confidence": 0.82
+        },
+        {
+          "text": "when",
+          "start": 4.02,
+          "end": 4.12,
+          "confidence": 0.964
+        },
+        {
+          "text": "I",
+          "start": 4.12,
+          "end": 4.22,
+          "confidence": 0.981
+        },
+        {
+          "text": "hover",
+          "start": 4.22,
+          "end": 4.4,
+          "confidence": 0.987
+        },
+        {
+          "text": "this",
+          "start": 4.4,
+          "end": 4.6,
+          "confidence": 0.943
+        },
+        {
+          "text": "card",
+          "start": 4.6,
+          "end": 4.9,
+          "confidence": 0.961
+        },
+        {
+          "text": "and",
+          "start": 4.9,
+          "end": 5.14,
+          "confidence": 0.581
+        },
+        {
+          "text": "it",
+          "start": 5.14,
+          "end": 5.28,
+          "confidence": 0.977
+        },
+        {
+          "text": "appears",
+          "start": 5.28,
+          "end": 5.62,
+          "confidence": 0.885
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.78,
+      "end": 6.44,
+      "text": " I love it.",
+      "tokens": [
+        50648,
+        286,
+        959,
+        309,
+        13,
+        50698
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17802887231531278,
+      "compression_ratio": 1.6624203821656052,
+      "no_speech_prob": 0.010623998939990997,
+      "confidence": 0.952,
+      "words": [
+        {
+          "text": "I",
+          "start": 5.78,
+          "end": 6.06,
+          "confidence": 0.905
+        },
+        {
+          "text": "love",
+          "start": 6.06,
+          "end": 6.22,
+          "confidence": 0.955
+        },
+        {
+          "text": "it.",
+          "start": 6.22,
+          "end": 6.44,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.44,
+      "end": 7.5,
+      "text": " Nicely done, Chronicle.",
+      "tokens": [
+        50698,
+        14776,
+        736,
+        1096,
+        11,
+        34038,
+        3520,
+        13,
+        50748
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17802887231531278,
+      "compression_ratio": 1.6624203821656052,
+      "no_speech_prob": 0.010623998939990997,
+      "confidence": 0.925,
+      "words": [
+        {
+          "text": "Nicely",
+          "start": 6.44,
+          "end": 6.82,
+          "confidence": 0.91
+        },
+        {
+          "text": "done,",
+          "start": 6.82,
+          "end": 7.06,
+          "confidence": 0.997
+        },
+        {
+          "text": "Chronicle.",
+          "start": 7.08,
+          "end": 7.5,
+          "confidence": 0.906
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 7.62,
+      "end": 11.61,
+      "text": " Now, someone with a greater understanding of design, please tell us in the comments how",
+      "tokens": [
+        50748,
+        823,
+        11,
+        1580,
+        365,
+        257,
+        5044,
+        3701,
+        295,
+        1715,
+        11,
+        1767,
+        980,
+        505,
+        294,
+        264,
+        3053,
+        577,
+        50945
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17802887231531278,
+      "compression_ratio": 1.6624203821656052,
+      "no_speech_prob": 0.010623998939990997,
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Now,",
+          "start": 7.62,
+          "end": 7.94,
+          "confidence": 0.994
+        },
+        {
+          "text": "someone",
+          "start": 8.08,
+          "end": 8.34,
+          "confidence": 0.952
+        },
+        {
+          "text": "with",
+          "start": 8.34,
+          "end": 8.52,
+          "confidence": 0.998
+        },
+        {
+          "text": "a",
+          "start": 8.52,
+          "end": 8.66,
+          "confidence": 0.975
+        },
+        {
+          "text": "greater",
+          "start": 8.66,
+          "end": 8.88,
+          "confidence": 0.984
+        },
+        {
+          "text": "understanding",
+          "start": 8.88,
+          "end": 9.4,
+          "confidence": 0.997
+        },
+        {
+          "text": "of",
+          "start": 9.4,
+          "end": 9.58,
+          "confidence": 0.997
+        },
+        {
+          "text": "design,",
+          "start": 9.58,
+          "end": 10.0,
+          "confidence": 0.991
+        },
+        {
+          "text": "please",
+          "start": 10.2,
+          "end": 10.48,
+          "confidence": 0.969
+        },
+        {
+          "text": "tell",
+          "start": 10.48,
+          "end": 10.68,
+          "confidence": 0.988
+        },
+        {
+          "text": "us",
+          "start": 10.68,
+          "end": 10.88,
+          "confidence": 0.999
+        },
+        {
+          "text": "in",
+          "start": 10.88,
+          "end": 10.96,
+          "confidence": 0.992
+        },
+        {
+          "text": "the",
+          "start": 10.96,
+          "end": 11.1,
+          "confidence": 0.996
+        },
+        {
+          "text": "comments",
+          "start": 11.1,
+          "end": 11.44,
+          "confidence": 0.982
+        },
+        {
+          "text": "how",
+          "start": 11.44,
+          "end": 11.61,
+          "confidence": 0.767
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 11.61,
+      "end": 14.82,
+      "text": " so few pixels can be so wonderfully impactful.",
+      "tokens": [
+        50945,
+        370,
+        1326,
+        18668,
+        393,
+        312,
+        370,
+        38917,
+        30842,
+        13,
+        51116
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17802887231531278,
+      "compression_ratio": 1.6624203821656052,
+      "no_speech_prob": 0.010623998939990997,
+      "confidence": 0.978,
+      "words": [
+        {
+          "text": "so",
+          "start": 11.61,
+          "end": 12.28,
+          "confidence": 0.902
+        },
+        {
+          "text": "few",
+          "start": 12.28,
+          "end": 12.52,
+          "confidence": 0.987
+        },
+        {
+          "text": "pixels",
+          "start": 12.52,
+          "end": 13.0,
+          "confidence": 0.994
+        },
+        {
+          "text": "can",
+          "start": 13.0,
+          "end": 13.32,
+          "confidence": 0.977
+        },
+        {
+          "text": "be",
+          "start": 13.32,
+          "end": 13.5,
+          "confidence": 0.995
+        },
+        {
+          "text": "so",
+          "start": 13.5,
+          "end": 13.82,
+          "confidence": 0.992
+        },
+        {
+          "text": "wonderfully",
+          "start": 13.82,
+          "end": 14.24,
+          "confidence": 0.989
+        },
+        {
+          "text": "impactful.",
+          "start": 14.24,
+          "end": 14.82,
+          "confidence": 0.994
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 15.02,
+      "end": 18.04,
+      "text": " And while I can't tell you that, I can show you how to recreate it.",
+      "tokens": [
+        51116,
+        400,
+        1339,
+        286,
+        393,
+        380,
+        980,
+        291,
+        300,
+        11,
+        286,
+        393,
+        855,
+        291,
+        577,
+        281,
+        25833,
+        309,
+        13,
+        51276
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17802887231531278,
+      "compression_ratio": 1.6624203821656052,
+      "no_speech_prob": 0.010623998939990997,
+      "confidence": 0.975,
+      "words": [
+        {
+          "text": "And",
+          "start": 15.02,
+          "end": 15.16,
+          "confidence": 0.976
+        },
+        {
+          "text": "while",
+          "start": 15.16,
+          "end": 15.28,
+          "confidence": 0.988
+        },
+        {
+          "text": "I",
+          "start": 15.28,
+          "end": 15.4,
+          "confidence": 0.995
+        },
+        {
+          "text": "can't",
+          "start": 15.4,
+          "end": 15.62,
+          "confidence": 0.995
+        },
+        {
+          "text": "tell",
+          "start": 15.62,
+          "end": 15.8,
+          "confidence": 0.998
+        },
+        {
+          "text": "you",
+          "start": 15.8,
+          "end": 15.92,
+          "confidence": 0.995
+        },
+        {
+          "text": "that,",
+          "start": 15.92,
+          "end": 16.26,
+          "confidence": 0.995
+        },
+        {
+          "text": "I",
+          "start": 16.3,
+          "end": 16.58,
+          "confidence": 0.985
+        },
+        {
+          "text": "can",
+          "start": 16.58,
+          "end": 16.88,
+          "confidence": 0.993
+        },
+        {
+          "text": "show",
+          "start": 16.88,
+          "end": 17.08,
+          "confidence": 0.773
+        },
+        {
+          "text": "you",
+          "start": 17.08,
+          "end": 17.24,
+          "confidence": 0.978
+        },
+        {
+          "text": "how",
+          "start": 17.24,
+          "end": 17.36,
+          "confidence": 0.999
+        },
+        {
+          "text": "to",
+          "start": 17.36,
+          "end": 17.48,
+          "confidence": 0.999
+        },
+        {
+          "text": "recreate",
+          "start": 17.48,
+          "end": 17.82,
+          "confidence": 0.964
+        },
+        {
+          "text": "it.",
+          "start": 17.82,
+          "end": 18.04,
+          "confidence": 0.992
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 18.06,
+      "end": 22.08,
+      "text": " Because the reality is that this little fella is nothing more than a linear gradient.",
+      "tokens": [
+        51276,
+        1436,
+        264,
+        4103,
+        307,
+        300,
+        341,
+        707,
+        49820,
+        307,
+        1825,
+        544,
+        813,
+        257,
+        8213,
+        16235,
+        13,
+        51476
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17802887231531278,
+      "compression_ratio": 1.6624203821656052,
+      "no_speech_prob": 0.010623998939990997,
+      "confidence": 0.957,
+      "words": [
+        {
+          "text": "Because",
+          "start": 18.06,
+          "end": 18.34,
+          "confidence": 0.992
+        },
+        {
+          "text": "the",
+          "start": 18.34,
+          "end": 18.44,
+          "confidence": 0.994
+        },
+        {
+          "text": "reality",
+          "start": 18.44,
+          "end": 18.86,
+          "confidence": 0.989
+        },
+        {
+          "text": "is",
+          "start": 18.86,
+          "end": 19.26,
+          "confidence": 0.991
+        },
+        {
+          "text": "that",
+          "start": 19.26,
+          "end": 19.42,
+          "confidence": 0.778
+        },
+        {
+          "text": "this",
+          "start": 19.42,
+          "end": 19.66,
+          "confidence": 0.989
+        },
+        {
+          "text": "little",
+          "start": 19.66,
+          "end": 19.88,
+          "confidence": 0.982
+        },
+        {
+          "text": "fella",
+          "start": 19.88,
+          "end": 20.24,
+          "confidence": 0.775
+        },
+        {
+          "text": "is",
+          "start": 20.24,
+          "end": 20.54,
+          "confidence": 0.981
+        },
+        {
+          "text": "nothing",
+          "start": 20.54,
+          "end": 20.92,
+          "confidence": 0.977
+        },
+        {
+          "text": "more",
+          "start": 20.92,
+          "end": 21.24,
+          "confidence": 0.998
+        },
+        {
+          "text": "than",
+          "start": 21.24,
+          "end": 21.4,
+          "confidence": 0.999
+        },
+        {
+          "text": "a",
+          "start": 21.4,
+          "end": 21.5,
+          "confidence": 0.992
+        },
+        {
+          "text": "linear",
+          "start": 21.5,
+          "end": 21.72,
+          "confidence": 0.991
+        },
+        {
+          "text": "gradient.",
+          "start": 21.72,
+          "end": 22.08,
+          "confidence": 0.977
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 22.2,
+      "end": 25.78,
+      "text": " But just as important as what it is, is how it's perceived by the user.",
+      "tokens": [
+        51476,
+        583,
+        445,
+        382,
+        1021,
+        382,
+        437,
+        309,
+        307,
+        11,
+        307,
+        577,
+        309,
+        311,
+        19049,
+        538,
+        264,
+        4195,
+        13,
+        51666
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17802887231531278,
+      "compression_ratio": 1.6624203821656052,
+      "no_speech_prob": 0.010623998939990997,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "But",
+          "start": 22.2,
+          "end": 22.36,
+          "confidence": 0.996
+        },
+        {
+          "text": "just",
+          "start": 22.36,
+          "end": 22.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "as",
+          "start": 22.52,
+          "end": 22.72,
+          "confidence": 0.993
+        },
+        {
+          "text": "important",
+          "start": 22.72,
+          "end": 22.98,
+          "confidence": 0.998
+        },
+        {
+          "text": "as",
+          "start": 22.98,
+          "end": 23.24,
+          "confidence": 0.986
+        },
+        {
+          "text": "what",
+          "start": 23.24,
+          "end": 23.4,
+          "confidence": 0.998
+        },
+        {
+          "text": "it",
+          "start": 23.4,
+          "end": 23.58,
+          "confidence": 0.992
+        },
+        {
+          "text": "is,",
+          "start": 23.58,
+          "end": 23.94,
+          "confidence": 0.998
+        },
+        {
+          "text": "is",
+          "start": 24.08,
+          "end": 24.22,
+          "confidence": 0.978
+        },
+        {
+          "text": "how",
+          "start": 24.22,
+          "end": 24.48,
+          "confidence": 0.967
+        },
+        {
+          "text": "it's",
+          "start": 24.48,
+          "end": 24.7,
+          "confidence": 0.96
+        },
+        {
+          "text": "perceived",
+          "start": 24.7,
+          "end": 25.14,
+          "confidence": 0.989
+        },
+        {
+          "text": "by",
+          "start": 25.14,
+          "end": 25.36,
+          "confidence": 0.998
+        },
+        {
+          "text": "the",
+          "start": 25.36,
+          "end": 25.52,
+          "confidence": 0.996
+        },
+        {
+          "text": "user.",
+          "start": 25.52,
+          "end": 25.78,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2604,
+      "start": 26.04,
+      "end": 30.91,
+      "text": " Upon closer inspection, we'll find that this gradient is just one pixel wide and a few",
+      "tokens": [
+        50364,
+        25184,
+        4966,
+        22085,
+        11,
+        321,
+        603,
+        915,
+        300,
+        341,
+        16235,
+        307,
+        445,
+        472,
+        19261,
+        4874,
+        293,
+        257,
+        1326,
+        50604
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19044397838080107,
+      "compression_ratio": 1.6884735202492211,
+      "no_speech_prob": 0.030147992074489594,
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "Upon",
+          "start": 26.04,
+          "end": 26.28,
+          "confidence": 0.951
+        },
+        {
+          "text": "closer",
+          "start": 26.28,
+          "end": 26.62,
+          "confidence": 0.899
+        },
+        {
+          "text": "inspection,",
+          "start": 26.62,
+          "end": 27.18,
+          "confidence": 0.995
+        },
+        {
+          "text": "we'll",
+          "start": 27.46,
+          "end": 27.6,
+          "confidence": 0.984
+        },
+        {
+          "text": "find",
+          "start": 27.6,
+          "end": 27.82,
+          "confidence": 0.999
+        },
+        {
+          "text": "that",
+          "start": 27.82,
+          "end": 28.02,
+          "confidence": 0.989
+        },
+        {
+          "text": "this",
+          "start": 28.02,
+          "end": 28.3,
+          "confidence": 0.988
+        },
+        {
+          "text": "gradient",
+          "start": 28.3,
+          "end": 28.66,
+          "confidence": 0.994
+        },
+        {
+          "text": "is",
+          "start": 28.66,
+          "end": 28.96,
+          "confidence": 0.99
+        },
+        {
+          "text": "just",
+          "start": 28.96,
+          "end": 29.24,
+          "confidence": 0.978
+        },
+        {
+          "text": "one",
+          "start": 29.24,
+          "end": 29.42,
+          "confidence": 0.934
+        },
+        {
+          "text": "pixel",
+          "start": 29.42,
+          "end": 29.74,
+          "confidence": 0.997
+        },
+        {
+          "text": "wide",
+          "start": 29.74,
+          "end": 30.1,
+          "confidence": 0.846
+        },
+        {
+          "text": "and",
+          "start": 30.1,
+          "end": 30.56,
+          "confidence": 0.805
+        },
+        {
+          "text": "a",
+          "start": 30.56,
+          "end": 30.78,
+          "confidence": 0.666
+        },
+        {
+          "text": "few",
+          "start": 30.78,
+          "end": 30.91,
+          "confidence": 0.894
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2604,
+      "start": 30.91,
+      "end": 31.96,
+      "text": " dozen pixels tall.",
+      "tokens": [
+        50604,
+        16654,
+        18668,
+        6764,
+        13,
+        50674
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19044397838080107,
+      "compression_ratio": 1.6884735202492211,
+      "no_speech_prob": 0.030147992074489594,
+      "confidence": 0.961,
+      "words": [
+        {
+          "text": "dozen",
+          "start": 30.91,
+          "end": 31.2,
+          "confidence": 0.89
+        },
+        {
+          "text": "pixels",
+          "start": 31.2,
+          "end": 31.6,
+          "confidence": 0.998
+        },
+        {
+          "text": "tall.",
+          "start": 31.6,
+          "end": 31.96,
+          "confidence": 0.998
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2604,
+      "start": 32.12,
+      "end": 35.96,
+      "text": " It starts transparent, fades to a color, and then back to transparent.",
+      "tokens": [
+        50674,
+        467,
+        3719,
+        12737,
+        11,
+        32679,
+        281,
+        257,
+        2017,
+        11,
+        293,
+        550,
+        646,
+        281,
+        12737,
+        13,
+        50876
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19044397838080107,
+      "compression_ratio": 1.6884735202492211,
+      "no_speech_prob": 0.030147992074489594,
+      "confidence": 0.935,
+      "words": [
+        {
+          "text": "It",
+          "start": 32.12,
+          "end": 32.34,
+          "confidence": 0.996
+        },
+        {
+          "text": "starts",
+          "start": 32.34,
+          "end": 32.54,
+          "confidence": 0.959
+        },
+        {
+          "text": "transparent,",
+          "start": 32.54,
+          "end": 33.1,
+          "confidence": 0.925
+        },
+        {
+          "text": "fades",
+          "start": 33.46,
+          "end": 33.72,
+          "confidence": 0.665
+        },
+        {
+          "text": "to",
+          "start": 33.72,
+          "end": 33.88,
+          "confidence": 0.997
+        },
+        {
+          "text": "a",
+          "start": 33.88,
+          "end": 34.02,
+          "confidence": 0.989
+        },
+        {
+          "text": "color,",
+          "start": 34.02,
+          "end": 34.36,
+          "confidence": 0.95
+        },
+        {
+          "text": "and",
+          "start": 34.8,
+          "end": 34.82,
+          "confidence": 0.979
+        },
+        {
+          "text": "then",
+          "start": 34.82,
+          "end": 34.98,
+          "confidence": 0.995
+        },
+        {
+          "text": "back",
+          "start": 34.98,
+          "end": 35.36,
+          "confidence": 0.859
+        },
+        {
+          "text": "to",
+          "start": 35.36,
+          "end": 35.52,
+          "confidence": 0.99
+        },
+        {
+          "text": "transparent.",
+          "start": 35.52,
+          "end": 35.96,
+          "confidence": 0.984
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2604,
+      "start": 36.22,
+      "end": 40.59,
+      "text": " If we temporarily make it wider, we'll find that it appears no different than any other",
+      "tokens": [
+        50876,
+        759,
+        321,
+        23750,
+        652,
+        309,
+        11842,
+        11,
+        321,
+        603,
+        915,
+        300,
+        309,
+        7038,
+        572,
+        819,
+        813,
+        604,
+        661,
+        51094
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19044397838080107,
+      "compression_ratio": 1.6884735202492211,
+      "no_speech_prob": 0.030147992074489594,
+      "confidence": 0.987,
+      "words": [
+        {
+          "text": "If",
+          "start": 36.22,
+          "end": 36.42,
+          "confidence": 0.999
+        },
+        {
+          "text": "we",
+          "start": 36.42,
+          "end": 36.62,
+          "confidence": 0.999
+        },
+        {
+          "text": "temporarily",
+          "start": 36.62,
+          "end": 37.16,
+          "confidence": 0.986
+        },
+        {
+          "text": "make",
+          "start": 37.16,
+          "end": 37.5,
+          "confidence": 0.997
+        },
+        {
+          "text": "it",
+          "start": 37.5,
+          "end": 37.66,
+          "confidence": 0.999
+        },
+        {
+          "text": "wider,",
+          "start": 37.66,
+          "end": 38.0,
+          "confidence": 0.987
+        },
+        {
+          "text": "we'll",
+          "start": 38.3,
+          "end": 38.42,
+          "confidence": 0.992
+        },
+        {
+          "text": "find",
+          "start": 38.42,
+          "end": 38.56,
+          "confidence": 0.998
+        },
+        {
+          "text": "that",
+          "start": 38.56,
+          "end": 38.78,
+          "confidence": 0.981
+        },
+        {
+          "text": "it",
+          "start": 38.78,
+          "end": 38.9,
+          "confidence": 0.995
+        },
+        {
+          "text": "appears",
+          "start": 38.9,
+          "end": 39.26,
+          "confidence": 0.992
+        },
+        {
+          "text": "no",
+          "start": 39.26,
+          "end": 39.68,
+          "confidence": 0.943
+        },
+        {
+          "text": "different",
+          "start": 39.68,
+          "end": 40.04,
+          "confidence": 0.985
+        },
+        {
+          "text": "than",
+          "start": 40.04,
+          "end": 40.3,
+          "confidence": 0.997
+        },
+        {
+          "text": "any",
+          "start": 40.3,
+          "end": 40.5,
+          "confidence": 0.979
+        },
+        {
+          "text": "other",
+          "start": 40.5,
+          "end": 40.59,
+          "confidence": 0.951
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2604,
+      "start": 40.59,
+      "end": 41.02,
+      "text": " gradient.",
+      "tokens": [
+        51094,
+        16235,
+        13,
+        51144
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19044397838080107,
+      "compression_ratio": 1.6884735202492211,
+      "no_speech_prob": 0.030147992074489594,
+      "confidence": 0.996,
+      "words": [
+        {
+          "text": "gradient.",
+          "start": 40.59,
+          "end": 41.02,
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2604,
+      "start": 41.14,
+      "end": 45.06,
+      "text": " But as we reduce the width, we'll notice that eventually, because our eyes are not able",
+      "tokens": [
+        51144,
+        583,
+        382,
+        321,
+        5407,
+        264,
+        11402,
+        11,
+        321,
+        603,
+        3449,
+        300,
+        4728,
+        11,
+        570,
+        527,
+        2575,
+        366,
+        406,
+        1075,
+        51314
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19044397838080107,
+      "compression_ratio": 1.6884735202492211,
+      "no_speech_prob": 0.030147992074489594,
+      "confidence": 0.929,
+      "words": [
+        {
+          "text": "But",
+          "start": 41.14,
+          "end": 41.26,
+          "confidence": 0.96
+        },
+        {
+          "text": "as",
+          "start": 41.26,
+          "end": 41.46,
+          "confidence": 0.963
+        },
+        {
+          "text": "we",
+          "start": 41.46,
+          "end": 41.6,
+          "confidence": 0.998
+        },
+        {
+          "text": "reduce",
+          "start": 41.6,
+          "end": 42.04,
+          "confidence": 0.721
+        },
+        {
+          "text": "the",
+          "start": 42.04,
+          "end": 42.22,
+          "confidence": 0.903
+        },
+        {
+          "text": "width,",
+          "start": 42.22,
+          "end": 42.54,
+          "confidence": 0.972
+        },
+        {
+          "text": "we'll",
+          "start": 42.7,
+          "end": 42.76,
+          "confidence": 0.988
+        },
+        {
+          "text": "notice",
+          "start": 42.76,
+          "end": 43.02,
+          "confidence": 0.997
+        },
+        {
+          "text": "that",
+          "start": 43.02,
+          "end": 43.22,
+          "confidence": 0.987
+        },
+        {
+          "text": "eventually,",
+          "start": 43.22,
+          "end": 43.72,
+          "confidence": 0.978
+        },
+        {
+          "text": "because",
+          "start": 44.06,
+          "end": 44.2,
+          "confidence": 0.994
+        },
+        {
+          "text": "our",
+          "start": 44.2,
+          "end": 44.38,
+          "confidence": 0.992
+        },
+        {
+          "text": "eyes",
+          "start": 44.38,
+          "end": 44.62,
+          "confidence": 0.994
+        },
+        {
+          "text": "are",
+          "start": 44.62,
+          "end": 44.76,
+          "confidence": 0.991
+        },
+        {
+          "text": "not",
+          "start": 44.76,
+          "end": 44.96,
+          "confidence": 0.947
+        },
+        {
+          "text": "able",
+          "start": 44.96,
+          "end": 45.06,
+          "confidence": 0.567
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2604,
+      "start": 45.06,
+      "end": 49.08,
+      "text": " to perceive a single pixel very well, it begins to look more like a fragment in",
+      "tokens": [
+        51314,
+        281,
+        20281,
+        257,
+        2167,
+        19261,
+        588,
+        731,
+        11,
+        309,
+        7338,
+        281,
+        574,
+        544,
+        411,
+        257,
+        26424,
+        294,
+        51516
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19044397838080107,
+      "compression_ratio": 1.6884735202492211,
+      "no_speech_prob": 0.030147992074489594,
+      "confidence": 0.912,
+      "words": [
+        {
+          "text": "to",
+          "start": 45.06,
+          "end": 45.26,
+          "confidence": 1.0
+        },
+        {
+          "text": "perceive",
+          "start": 45.26,
+          "end": 45.64,
+          "confidence": 0.995
+        },
+        {
+          "text": "a",
+          "start": 45.64,
+          "end": 45.88,
+          "confidence": 0.989
+        },
+        {
+          "text": "single",
+          "start": 45.88,
+          "end": 46.08,
+          "confidence": 0.999
+        },
+        {
+          "text": "pixel",
+          "start": 46.08,
+          "end": 46.46,
+          "confidence": 0.998
+        },
+        {
+          "text": "very",
+          "start": 46.46,
+          "end": 46.74,
+          "confidence": 0.973
+        },
+        {
+          "text": "well,",
+          "start": 46.74,
+          "end": 46.98,
+          "confidence": 0.999
+        },
+        {
+          "text": "it",
+          "start": 47.08,
+          "end": 47.26,
+          "confidence": 0.998
+        },
+        {
+          "text": "begins",
+          "start": 47.26,
+          "end": 47.54,
+          "confidence": 0.992
+        },
+        {
+          "text": "to",
+          "start": 47.54,
+          "end": 47.7,
+          "confidence": 0.999
+        },
+        {
+          "text": "look",
+          "start": 47.7,
+          "end": 47.92,
+          "confidence": 0.999
+        },
+        {
+          "text": "more",
+          "start": 47.92,
+          "end": 48.2,
+          "confidence": 0.993
+        },
+        {
+          "text": "like",
+          "start": 48.2,
+          "end": 48.38,
+          "confidence": 0.999
+        },
+        {
+          "text": "a",
+          "start": 48.38,
+          "end": 48.6,
+          "confidence": 0.997
+        },
+        {
+          "text": "fragment",
+          "start": 48.6,
+          "end": 48.88,
+          "confidence": 0.761
+        },
+        {
+          "text": "in",
+          "start": 48.88,
+          "end": 49.08,
+          "confidence": 0.321
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2604,
+      "start": 49.08,
+      "end": 49.52,
+      "text": " short.",
+      "tokens": [
+        51516,
+        2099,
+        13,
+        51566
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19044397838080107,
+      "compression_ratio": 1.6884735202492211,
+      "no_speech_prob": 0.030147992074489594,
+      "confidence": 0.264,
+      "words": [
+        {
+          "text": "short.",
+          "start": 49.08,
+          "end": 49.52,
+          "confidence": 0.264
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2604,
+      "start": 49.8,
+      "end": 53.63,
+      "text": " So if we hit up our friendly neighborhood code pen, throw it together a basic card with some",
+      "tokens": [
+        51566,
+        407,
+        498,
+        321,
+        2045,
+        493,
+        527,
+        9208,
+        7630,
+        3089,
+        3435,
+        11,
+        3507,
+        309,
+        1214,
+        257,
+        3875,
+        2920,
+        365,
+        512,
+        51740
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19044397838080107,
+      "compression_ratio": 1.6884735202492211,
+      "no_speech_prob": 0.030147992074489594,
+      "confidence": 0.792,
+      "words": [
+        {
+          "text": "So",
+          "start": 49.8,
+          "end": 49.94,
+          "confidence": 0.848
+        },
+        {
+          "text": "if",
+          "start": 49.94,
+          "end": 50.16,
+          "confidence": 0.855
+        },
+        {
+          "text": "we",
+          "start": 50.16,
+          "end": 50.24,
+          "confidence": 0.999
+        },
+        {
+          "text": "hit",
+          "start": 50.24,
+          "end": 50.4,
+          "confidence": 0.956
+        },
+        {
+          "text": "up",
+          "start": 50.4,
+          "end": 50.58,
+          "confidence": 0.987
+        },
+        {
+          "text": "our",
+          "start": 50.58,
+          "end": 50.68,
+          "confidence": 0.998
+        },
+        {
+          "text": "friendly",
+          "start": 50.68,
+          "end": 50.94,
+          "confidence": 0.961
+        },
+        {
+          "text": "neighborhood",
+          "start": 50.94,
+          "end": 51.32,
+          "confidence": 0.967
+        },
+        {
+          "text": "code",
+          "start": 51.32,
+          "end": 51.68,
+          "confidence": 0.647
+        },
+        {
+          "text": "pen,",
+          "start": 51.68,
+          "end": 51.98,
+          "confidence": 0.408
+        },
+        {
+          "text": "throw",
+          "start": 52.12,
+          "end": 52.22,
+          "confidence": 0.981
+        },
+        {
+          "text": "it",
+          "start": 52.22,
+          "end": 52.4,
+          "confidence": 0.53
+        },
+        {
+          "text": "together",
+          "start": 52.4,
+          "end": 52.56,
+          "confidence": 0.564
+        },
+        {
+          "text": "a",
+          "start": 52.56,
+          "end": 52.8,
+          "confidence": 0.838
+        },
+        {
+          "text": "basic",
+          "start": 52.8,
+          "end": 52.98,
+          "confidence": 0.677
+        },
+        {
+          "text": "card",
+          "start": 52.98,
+          "end": 53.32,
+          "confidence": 0.781
+        },
+        {
+          "text": "with",
+          "start": 53.32,
+          "end": 53.48,
+          "confidence": 0.947
+        },
+        {
+          "text": "some",
+          "start": 53.48,
+          "end": 53.63,
+          "confidence": 0.731
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5356,
+      "start": 53.63,
+      "end": 58.3,
+      "text": " text inside, and then save it as private, well actually that's a super handy pro feature",
+      "tokens": [
+        50364,
+        2487,
+        1854,
+        11,
+        293,
+        550,
+        3155,
+        309,
+        382,
+        4551,
+        11,
+        731,
+        767,
+        300,
+        311,
+        257,
+        1687,
+        13239,
+        447,
+        4111,
+        50600
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19455176015054026,
+      "compression_ratio": 1.7328767123287672,
+      "no_speech_prob": 0.018238410353660583,
+      "confidence": 0.781,
+      "words": [
+        {
+          "text": "text",
+          "start": 53.63,
+          "end": 53.9,
+          "confidence": 0.938
+        },
+        {
+          "text": "inside,",
+          "start": 53.9,
+          "end": 54.34,
+          "confidence": 0.997
+        },
+        {
+          "text": "and",
+          "start": 54.68,
+          "end": 54.7,
+          "confidence": 0.931
+        },
+        {
+          "text": "then",
+          "start": 54.7,
+          "end": 54.96,
+          "confidence": 0.951
+        },
+        {
+          "text": "save",
+          "start": 54.96,
+          "end": 55.34,
+          "confidence": 0.968
+        },
+        {
+          "text": "it",
+          "start": 55.34,
+          "end": 55.5,
+          "confidence": 0.986
+        },
+        {
+          "text": "as",
+          "start": 55.5,
+          "end": 55.62,
+          "confidence": 0.979
+        },
+        {
+          "text": "private,",
+          "start": 55.62,
+          "end": 55.96,
+          "confidence": 0.963
+        },
+        {
+          "text": "well",
+          "start": 56.12,
+          "end": 56.32,
+          "confidence": 0.337
+        },
+        {
+          "text": "actually",
+          "start": 56.32,
+          "end": 56.56,
+          "confidence": 0.712
+        },
+        {
+          "text": "that's",
+          "start": 56.56,
+          "end": 57.04,
+          "confidence": 0.741
+        },
+        {
+          "text": "a",
+          "start": 57.04,
+          "end": 57.18,
+          "confidence": 0.601
+        },
+        {
+          "text": "super",
+          "start": 57.18,
+          "end": 57.4,
+          "confidence": 0.96
+        },
+        {
+          "text": "handy",
+          "start": 57.4,
+          "end": 57.66,
+          "confidence": 0.95
+        },
+        {
+          "text": "pro",
+          "start": 57.66,
+          "end": 58.02,
+          "confidence": 0.55
+        },
+        {
+          "text": "feature",
+          "start": 58.02,
+          "end": 58.3,
+          "confidence": 0.509
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5356,
+      "start": 58.34,
+      "end": 63.02,
+      "text": " that I use all the time, so my pen doesn't show up in my profile before I finish a video.",
+      "tokens": [
+        50600,
+        300,
+        286,
+        764,
+        439,
+        264,
+        565,
+        11,
+        370,
+        452,
+        3435,
+        1177,
+        380,
+        855,
+        493,
+        294,
+        452,
+        7964,
+        949,
+        286,
+        2413,
+        257,
+        960,
+        13,
+        50846
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19455176015054026,
+      "compression_ratio": 1.7328767123287672,
+      "no_speech_prob": 0.018238410353660583,
+      "confidence": 0.965,
+      "words": [
+        {
+          "text": "that",
+          "start": 58.34,
+          "end": 58.5,
+          "confidence": 0.976
+        },
+        {
+          "text": "I",
+          "start": 58.5,
+          "end": 58.66,
+          "confidence": 0.991
+        },
+        {
+          "text": "use",
+          "start": 58.66,
+          "end": 59.0,
+          "confidence": 0.969
+        },
+        {
+          "text": "all",
+          "start": 59.0,
+          "end": 59.34,
+          "confidence": 0.986
+        },
+        {
+          "text": "the",
+          "start": 59.34,
+          "end": 59.52,
+          "confidence": 0.985
+        },
+        {
+          "text": "time,",
+          "start": 59.52,
+          "end": 59.84,
+          "confidence": 0.999
+        },
+        {
+          "text": "so",
+          "start": 59.9,
+          "end": 60.06,
+          "confidence": 0.997
+        },
+        {
+          "text": "my",
+          "start": 60.06,
+          "end": 60.18,
+          "confidence": 0.992
+        },
+        {
+          "text": "pen",
+          "start": 60.18,
+          "end": 60.36,
+          "confidence": 0.981
+        },
+        {
+          "text": "doesn't",
+          "start": 60.36,
+          "end": 60.56,
+          "confidence": 0.986
+        },
+        {
+          "text": "show",
+          "start": 60.56,
+          "end": 60.76,
+          "confidence": 0.998
+        },
+        {
+          "text": "up",
+          "start": 60.76,
+          "end": 60.92,
+          "confidence": 0.925
+        },
+        {
+          "text": "in",
+          "start": 60.92,
+          "end": 61.04,
+          "confidence": 0.984
+        },
+        {
+          "text": "my",
+          "start": 61.04,
+          "end": 61.24,
+          "confidence": 0.98
+        },
+        {
+          "text": "profile",
+          "start": 61.24,
+          "end": 61.64,
+          "confidence": 0.981
+        },
+        {
+          "text": "before",
+          "start": 61.64,
+          "end": 62.12,
+          "confidence": 0.979
+        },
+        {
+          "text": "I",
+          "start": 62.12,
+          "end": 62.32,
+          "confidence": 0.98
+        },
+        {
+          "text": "finish",
+          "start": 62.32,
+          "end": 62.56,
+          "confidence": 0.987
+        },
+        {
+          "text": "a",
+          "start": 62.56,
+          "end": 62.68,
+          "confidence": 0.823
+        },
+        {
+          "text": "video.",
+          "start": 62.68,
+          "end": 63.02,
+          "confidence": 0.811
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5356,
+      "start": 63.16,
+      "end": 67.23,
+      "text": " We can then slap our gradient into a pseudo element, position it absolutely along the left",
+      "tokens": [
+        50846,
+        492,
+        393,
+        550,
+        21075,
+        527,
+        16235,
+        666,
+        257,
+        35899,
+        4478,
+        11,
+        2535,
+        309,
+        3122,
+        2051,
+        264,
+        1411,
+        51048
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19455176015054026,
+      "compression_ratio": 1.7328767123287672,
+      "no_speech_prob": 0.018238410353660583,
+      "confidence": 0.961,
+      "words": [
+        {
+          "text": "We",
+          "start": 63.16,
+          "end": 63.3,
+          "confidence": 0.993
+        },
+        {
+          "text": "can",
+          "start": 63.3,
+          "end": 63.44,
+          "confidence": 0.998
+        },
+        {
+          "text": "then",
+          "start": 63.44,
+          "end": 63.62,
+          "confidence": 0.942
+        },
+        {
+          "text": "slap",
+          "start": 63.62,
+          "end": 63.84,
+          "confidence": 0.985
+        },
+        {
+          "text": "our",
+          "start": 63.84,
+          "end": 64.1,
+          "confidence": 0.997
+        },
+        {
+          "text": "gradient",
+          "start": 64.1,
+          "end": 64.34,
+          "confidence": 0.996
+        },
+        {
+          "text": "into",
+          "start": 64.34,
+          "end": 64.64,
+          "confidence": 0.996
+        },
+        {
+          "text": "a",
+          "start": 64.64,
+          "end": 64.82,
+          "confidence": 0.992
+        },
+        {
+          "text": "pseudo",
+          "start": 64.82,
+          "end": 65.06,
+          "confidence": 0.901
+        },
+        {
+          "text": "element,",
+          "start": 65.06,
+          "end": 65.44,
+          "confidence": 0.938
+        },
+        {
+          "text": "position",
+          "start": 65.7,
+          "end": 66.02,
+          "confidence": 0.963
+        },
+        {
+          "text": "it",
+          "start": 66.02,
+          "end": 66.28,
+          "confidence": 0.995
+        },
+        {
+          "text": "absolutely",
+          "start": 66.28,
+          "end": 66.68,
+          "confidence": 0.989
+        },
+        {
+          "text": "along",
+          "start": 66.68,
+          "end": 67.02,
+          "confidence": 0.99
+        },
+        {
+          "text": "the",
+          "start": 67.02,
+          "end": 67.14,
+          "confidence": 0.898
+        },
+        {
+          "text": "left",
+          "start": 67.14,
+          "end": 67.23,
+          "confidence": 0.821
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5356,
+      "start": 67.23,
+      "end": 69.54,
+      "text": " side, and down a little ways from the top.",
+      "tokens": [
+        51048,
+        1252,
+        11,
+        293,
+        760,
+        257,
+        707,
+        2098,
+        490,
+        264,
+        1192,
+        13,
+        51178
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19455176015054026,
+      "compression_ratio": 1.7328767123287672,
+      "no_speech_prob": 0.018238410353660583,
+      "confidence": 0.969,
+      "words": [
+        {
+          "text": "side,",
+          "start": 67.23,
+          "end": 67.7,
+          "confidence": 0.998
+        },
+        {
+          "text": "and",
+          "start": 68.24,
+          "end": 68.32,
+          "confidence": 0.99
+        },
+        {
+          "text": "down",
+          "start": 68.32,
+          "end": 68.54,
+          "confidence": 0.985
+        },
+        {
+          "text": "a",
+          "start": 68.54,
+          "end": 68.64,
+          "confidence": 0.993
+        },
+        {
+          "text": "little",
+          "start": 68.64,
+          "end": 68.8,
+          "confidence": 0.998
+        },
+        {
+          "text": "ways",
+          "start": 68.8,
+          "end": 69.0,
+          "confidence": 0.786
+        },
+        {
+          "text": "from",
+          "start": 69.0,
+          "end": 69.14,
+          "confidence": 0.994
+        },
+        {
+          "text": "the",
+          "start": 69.14,
+          "end": 69.36,
+          "confidence": 0.997
+        },
+        {
+          "text": "top.",
+          "start": 69.36,
+          "end": 69.54,
+          "confidence": 0.999
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 5356,
+      "start": 69.7,
+      "end": 74.67,
+      "text": " Not forgetting to set content to an empty strings or after element shows up, and to set position",
+      "tokens": [
+        51178,
+        1726,
+        25428,
+        281,
+        992,
+        2701,
+        281,
+        364,
+        6707,
+        13985,
+        420,
+        934,
+        4478,
+        3110,
+        493,
+        11,
+        293,
+        281,
+        992,
+        2535,
+        51420
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19455176015054026,
+      "compression_ratio": 1.7328767123287672,
+      "no_speech_prob": 0.018238410353660583,
+      "confidence": 0.89,
+      "words": [
+        {
+          "text": "Not",
+          "start": 69.7,
+          "end": 69.98,
+          "confidence": 0.994
+        },
+        {
+          "text": "forgetting",
+          "start": 69.98,
+          "end": 70.32,
+          "confidence": 0.969
+        },
+        {
+          "text": "to",
+          "start": 70.32,
+          "end": 70.5,
+          "confidence": 0.936
+        },
+        {
+          "text": "set",
+          "start": 70.5,
+          "end": 70.66,
+          "confidence": 0.986
+        },
+        {
+          "text": "content",
+          "start": 70.66,
+          "end": 71.18,
+          "confidence": 0.994
+        },
+        {
+          "text": "to",
+          "start": 71.18,
+          "end": 71.36,
+          "confidence": 0.992
+        },
+        {
+          "text": "an",
+          "start": 71.36,
+          "end": 71.52,
+          "confidence": 0.992
+        },
+        {
+          "text": "empty",
+          "start": 71.52,
+          "end": 71.76,
+          "confidence": 0.999
+        },
+        {
+          "text": "strings",
+          "start": 71.76,
+          "end": 72.16,
+          "confidence": 0.884
+        },
+        {
+          "text": "or",
+          "start": 72.16,
+          "end": 72.46,
+          "confidence": 0.652
+        },
+        {
+          "text": "after",
+          "start": 72.46,
+          "end": 72.7,
+          "confidence": 0.989
+        },
+        {
+          "text": "element",
+          "start": 72.7,
+          "end": 73.04,
+          "confidence": 0.975
+        },
+        {
+          "text": "shows",
+          "start": 73.04,
+          "end": 73.36,
+          "confidence": 0.99
+        },
+        {
+          "text": "up,",
+          "start": 73.36,
+          "end": 73.64,
+          "confidence": 0.998
+        },
+        {
+          "text": "and",
+          "start": 73.84,
+          "end": 74.08,
+          "confidence": 0.988
+        },
+        {
+          "text": "to",
+          "start": 74.08,
+          "end": 74.2,
+          "confidence": 0.372
+        },
+        {
+          "text": "set",
+          "start": 74.2,
+          "end": 74.3,
+          "confidence": 0.935
+        },
+        {
+          "text": "position",
+          "start": 74.3,
+          "end": 74.67,
+          "confidence": 0.757
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 5356,
+      "start": 74.67,
+      "end": 79.02,
+      "text": " relative on the card so the left and top values correspond to it rather than the whole",
+      "tokens": [
+        51420,
+        4972,
+        322,
+        264,
+        2920,
+        370,
+        264,
+        1411,
+        293,
+        1192,
+        4190,
+        6805,
+        281,
+        309,
+        2831,
+        813,
+        264,
+        1379,
+        51636
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19455176015054026,
+      "compression_ratio": 1.7328767123287672,
+      "no_speech_prob": 0.018238410353660583,
+      "confidence": 0.916,
+      "words": [
+        {
+          "text": "relative",
+          "start": 74.67,
+          "end": 75.12,
+          "confidence": 0.994
+        },
+        {
+          "text": "on",
+          "start": 75.12,
+          "end": 75.34,
+          "confidence": 0.996
+        },
+        {
+          "text": "the",
+          "start": 75.34,
+          "end": 75.58,
+          "confidence": 0.998
+        },
+        {
+          "text": "card",
+          "start": 75.58,
+          "end": 75.88,
+          "confidence": 0.895
+        },
+        {
+          "text": "so",
+          "start": 75.88,
+          "end": 76.12,
+          "confidence": 0.679
+        },
+        {
+          "text": "the",
+          "start": 76.12,
+          "end": 76.22,
+          "confidence": 0.977
+        },
+        {
+          "text": "left",
+          "start": 76.22,
+          "end": 76.42,
+          "confidence": 0.995
+        },
+        {
+          "text": "and",
+          "start": 76.42,
+          "end": 76.6,
+          "confidence": 0.853
+        },
+        {
+          "text": "top",
+          "start": 76.6,
+          "end": 76.82,
+          "confidence": 0.997
+        },
+        {
+          "text": "values",
+          "start": 76.82,
+          "end": 77.1,
+          "confidence": 0.797
+        },
+        {
+          "text": "correspond",
+          "start": 77.1,
+          "end": 77.66,
+          "confidence": 0.991
+        },
+        {
+          "text": "to",
+          "start": 77.66,
+          "end": 77.96,
+          "confidence": 0.857
+        },
+        {
+          "text": "it",
+          "start": 77.96,
+          "end": 78.2,
+          "confidence": 0.971
+        },
+        {
+          "text": "rather",
+          "start": 78.2,
+          "end": 78.52,
+          "confidence": 0.765
+        },
+        {
+          "text": "than",
+          "start": 78.52,
+          "end": 78.82,
+          "confidence": 0.993
+        },
+        {
+          "text": "the",
+          "start": 78.82,
+          "end": 78.92,
+          "confidence": 0.976
+        },
+        {
+          "text": "whole",
+          "start": 78.92,
+          "end": 79.02,
+          "confidence": 0.939
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 5356,
+      "start": 79.02,
+      "end": 79.5,
+      "text": " document.",
+      "tokens": [
+        51636,
+        4166,
+        13,
+        51686
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19455176015054026,
+      "compression_ratio": 1.7328767123287672,
+      "no_speech_prob": 0.018238410353660583,
+      "confidence": 0.989,
+      "words": [
+        {
+          "text": "document.",
+          "start": 79.02,
+          "end": 79.5,
+          "confidence": 0.989
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 8000,
+      "start": 80.0,
+      "end": 84.38,
+      "text": " Setting a transition time on the top and opacity properties, we can shift those values",
+      "tokens": [
+        50364,
+        21063,
+        257,
+        6034,
+        565,
+        322,
+        264,
+        1192,
+        293,
+        41693,
+        7221,
+        11,
+        321,
+        393,
+        5513,
+        729,
+        4190,
+        50580
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3110280117746127,
+      "compression_ratio": 1.4597701149425288,
+      "no_speech_prob": 0.4254710078239441,
+      "confidence": 0.886,
+      "words": [
+        {
+          "text": "Setting",
+          "start": 80.0,
+          "end": 80.18,
+          "confidence": 0.246
+        },
+        {
+          "text": "a",
+          "start": 80.18,
+          "end": 80.42,
+          "confidence": 0.997
+        },
+        {
+          "text": "transition",
+          "start": 80.42,
+          "end": 80.78,
+          "confidence": 0.967
+        },
+        {
+          "text": "time",
+          "start": 80.78,
+          "end": 81.18,
+          "confidence": 0.994
+        },
+        {
+          "text": "on",
+          "start": 81.18,
+          "end": 81.42,
+          "confidence": 0.941
+        },
+        {
+          "text": "the",
+          "start": 81.42,
+          "end": 81.58,
+          "confidence": 0.975
+        },
+        {
+          "text": "top",
+          "start": 81.58,
+          "end": 81.8,
+          "confidence": 0.973
+        },
+        {
+          "text": "and",
+          "start": 81.8,
+          "end": 81.92,
+          "confidence": 0.82
+        },
+        {
+          "text": "opacity",
+          "start": 81.92,
+          "end": 82.36,
+          "confidence": 0.984
+        },
+        {
+          "text": "properties,",
+          "start": 82.36,
+          "end": 82.88,
+          "confidence": 0.997
+        },
+        {
+          "text": "we",
+          "start": 83.28,
+          "end": 83.32,
+          "confidence": 0.995
+        },
+        {
+          "text": "can",
+          "start": 83.32,
+          "end": 83.56,
+          "confidence": 0.996
+        },
+        {
+          "text": "shift",
+          "start": 83.56,
+          "end": 83.8,
+          "confidence": 0.991
+        },
+        {
+          "text": "those",
+          "start": 83.8,
+          "end": 84.06,
+          "confidence": 0.986
+        },
+        {
+          "text": "values",
+          "start": 84.06,
+          "end": 84.38,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 8000,
+      "start": 84.38,
+      "end": 86.66,
+      "text": " on hover so our shard fades into view.",
+      "tokens": [
+        50580,
+        322,
+        20076,
+        370,
+        527,
+        402,
+        515,
+        32679,
+        666,
+        1910,
+        13,
+        50700
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3110280117746127,
+      "compression_ratio": 1.4597701149425288,
+      "no_speech_prob": 0.4254710078239441,
+      "confidence": 0.898,
+      "words": [
+        {
+          "text": "on",
+          "start": 84.38,
+          "end": 84.62,
+          "confidence": 0.996
+        },
+        {
+          "text": "hover",
+          "start": 84.62,
+          "end": 84.92,
+          "confidence": 0.913
+        },
+        {
+          "text": "so",
+          "start": 84.92,
+          "end": 85.22,
+          "confidence": 0.844
+        },
+        {
+          "text": "our",
+          "start": 85.22,
+          "end": 85.54,
+          "confidence": 0.997
+        },
+        {
+          "text": "shard",
+          "start": 85.54,
+          "end": 85.84,
+          "confidence": 0.774
+        },
+        {
+          "text": "fades",
+          "start": 85.84,
+          "end": 86.08,
+          "confidence": 0.923
+        },
+        {
+          "text": "into",
+          "start": 86.08,
+          "end": 86.32,
+          "confidence": 0.905
+        },
+        {
+          "text": "view.",
+          "start": 86.32,
+          "end": 86.66,
+          "confidence": 0.991
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 8000,
+      "start": 86.76,
+      "end": 89.04,
+      "text": " Remember to use this one wisely, friends.",
+      "tokens": [
+        50700,
+        5459,
+        281,
+        764,
+        341,
+        472,
+        37632,
+        11,
+        1855,
+        13,
+        50832
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3110280117746127,
+      "compression_ratio": 1.4597701149425288,
+      "no_speech_prob": 0.4254710078239441,
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "Remember",
+          "start": 86.76,
+          "end": 87.16,
+          "confidence": 0.943
+        },
+        {
+          "text": "to",
+          "start": 87.16,
+          "end": 87.5,
+          "confidence": 0.989
+        },
+        {
+          "text": "use",
+          "start": 87.5,
+          "end": 87.64,
+          "confidence": 0.997
+        },
+        {
+          "text": "this",
+          "start": 87.64,
+          "end": 87.88,
+          "confidence": 0.989
+        },
+        {
+          "text": "one",
+          "start": 87.88,
+          "end": 88.1,
+          "confidence": 0.996
+        },
+        {
+          "text": "wisely,",
+          "start": 88.1,
+          "end": 88.48,
+          "confidence": 0.99
+        },
+        {
+          "text": "friends.",
+          "start": 88.72,
+          "end": 89.04,
+          "confidence": 0.956
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 8000,
+      "start": 89.26,
+      "end": 94.72,
+      "text": " Gradient serve powerful tools, and with great power comes the gradient responsibility.",
+      "tokens": [
+        50832,
+        16710,
+        1196,
+        4596,
+        4005,
+        3873,
+        11,
+        293,
+        365,
+        869,
+        1347,
+        1487,
+        264,
+        16235,
+        6357,
+        13,
+        51104
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3110280117746127,
+      "compression_ratio": 1.4597701149425288,
+      "no_speech_prob": 0.4254710078239441,
+      "confidence": 0.757,
+      "words": [
+        {
+          "text": "Gradient",
+          "start": 89.26,
+          "end": 89.76,
+          "confidence": 0.819
+        },
+        {
+          "text": "serve",
+          "start": 89.76,
+          "end": 90.04,
+          "confidence": 0.694
+        },
+        {
+          "text": "powerful",
+          "start": 90.04,
+          "end": 90.46,
+          "confidence": 0.976
+        },
+        {
+          "text": "tools,",
+          "start": 90.46,
+          "end": 91.0,
+          "confidence": 0.999
+        },
+        {
+          "text": "and",
+          "start": 91.36,
+          "end": 91.44,
+          "confidence": 0.982
+        },
+        {
+          "text": "with",
+          "start": 91.44,
+          "end": 91.64,
+          "confidence": 0.991
+        },
+        {
+          "text": "great",
+          "start": 91.64,
+          "end": 91.88,
+          "confidence": 0.927
+        },
+        {
+          "text": "power",
+          "start": 91.88,
+          "end": 92.3,
+          "confidence": 0.997
+        },
+        {
+          "text": "comes",
+          "start": 92.3,
+          "end": 92.88,
+          "confidence": 0.792
+        },
+        {
+          "text": "the",
+          "start": 92.88,
+          "end": 93.42,
+          "confidence": 0.391
+        },
+        {
+          "text": "gradient",
+          "start": 93.42,
+          "end": 93.88,
+          "confidence": 0.297
+        },
+        {
+          "text": "responsibility.",
+          "start": 93.88,
+          "end": 94.72,
+          "confidence": 0.714
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
